@@ -1,4 +1,4 @@
-# Kanoon Chhota — कानून छोटा
+# Kanoon
 
 > **"Legal documents, in your language, in your voice."**
 
